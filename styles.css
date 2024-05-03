@@ -1,0 +1,38 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+/* Container for the search engine */
+.search-container {
+    text-align: center;
+    padding: 50px 0;
+}
+/* Title styles */
+.search-container h1 {
+    color: #333;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+/* Search box styles */
+.gcse-search {
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 80%;
+}
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
